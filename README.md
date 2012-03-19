@@ -1,5 +1,7 @@
 A jQuery plugin and [Phono](http://www.phono.com) add-on that makes it easy to drop a callme button directly into any webpage with just a few lines of code. 
 
+Variant that uses the Java version of Phono
+
 ### Requires:
  * [Phono jQuery Plugin](http://www.phono.com) 
  * Phono API Key. [Get one here](http://www.phono.com) 
