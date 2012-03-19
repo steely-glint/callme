@@ -78,7 +78,7 @@
 			audio:{
 				type:'java', 
                           	jar:'http://ci.voxeolabs.com/jenkins/job/PhonoSDK/158/artifact/artifacts/sdk/plugins/audio/phono.audio.jar'
-			}
+			},
         		onReady: function(){
         			dispatcher.trigger("phonoReady");
         		},
